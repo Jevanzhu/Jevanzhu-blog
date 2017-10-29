@@ -1,3 +1,3 @@
 # Jevan
 
-大概这就是README了吧。
+备份blog文章。
