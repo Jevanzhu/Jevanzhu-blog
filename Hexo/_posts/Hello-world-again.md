@@ -1,8 +1,6 @@
 ---
-title: "Hello World, Again"
-date: 2017-10-12T20:03:43+08:00
-draft: false
-tags: ["Lfie"]
+title: Hello World, Again
+tags: Lfie
 ---
 
 
