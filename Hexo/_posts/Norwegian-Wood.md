@@ -1,5 +1,5 @@
 ---
-title: 你好，挪威的森林
+title: 你好啊，挪威的森林
 date: 2018/06/07
 categories:
 - 写写话话
