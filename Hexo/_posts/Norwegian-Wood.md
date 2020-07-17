@@ -1,6 +1,7 @@
 ---
 title: 你好啊，挪威的森林
 date: 2018/06/07
+updated: 2020/07/18
 categories:
 - 写写话话
 - 随笔
